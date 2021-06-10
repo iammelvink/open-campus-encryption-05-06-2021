@@ -23,7 +23,9 @@ and Smous tackle Object Oriented Programming, in Java.
 2. Clone this repository into your local machine using the terminal (mac) or
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)')
 
-   `> git clone https://github.com/iammelvink/open-campus-encryption-05-06-2021.git`
+   ```
+   > git clone https://github.com/iammelvink/open-campus-encryption-05-06-2021.git
+   ```
 
 3. Run Apache NetBeans and choose Open Project
 
